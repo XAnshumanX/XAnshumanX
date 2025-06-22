@@ -1,4 +1,5 @@
-Innovative Data Scientist with a strong foundation in Python, SQL, Excel, Tableau, and Power BI. Passionate about transforming raw data into actionable insights, with a methodical approach to problem-solving and a commitment to leveraging data for business decisions. Skilled in managing and analyzing complex datasets, developing insightful reports, and creating impactful dashboards.
+Hi, I’m Anshuman Chawhan,
+An innovative Data Scientist with a strong foundation in Python, SQL, Excel, Tableau, and Power BI. Passionate about transforming raw data into actionable insights, I bring a methodical approach to problem-solving and a commitment to leveraging data to drive strategic business decisions. Skilled in managing and analyzing complex datasets, developing insightful reports, and designing impactful dashboards.
 
 
 - 👋 Hi, I’m Anshuman Chawhan
