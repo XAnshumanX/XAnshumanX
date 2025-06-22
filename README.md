@@ -5,7 +5,7 @@ An innovative Data Scientist with a strong foundation in Python, SQL, Excel, Tab
 - 👋 Hi, I’m Anshuman Chawhan
 - 👀 I’m interested in Data Science and Data Analysis.
 - 🌱 I have completed the Advanced Certification in Full Stack Data Science and AI (E&ICT) from IIT Guwahati.
-- 💞️ I’m looking to collaborate on - Internships or Jobs
+- 💼 Actively seeking impactful roles — internships or full-time — where I can apply my data science skills to drive real-world results.
 - 📫 How to reach me - Linkedin-  https://www.linkedin.com/in/anshumanchawhan/
 
 
