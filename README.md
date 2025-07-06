@@ -1,5 +1,5 @@
 Hi, I’m Anshuman Chawhan,
-An innovative Data Scientist with a strong foundation in Python, SQL, Excel, Tableau, and Power BI. 
+An innovative Data Science enthusisiast with a strong foundation in Python, SQL, Excel, Tableau, and Power BI. 
 
 Passionate about transforming raw data into actionable insights, I bring a methodical approach to problem-solving and a commitment to leveraging data to drive strategic business decisions. 
 
